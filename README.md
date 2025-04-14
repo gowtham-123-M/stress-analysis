@@ -1,2 +1,2 @@
 # stress-analysis
-human stress analysis using machine learnig algorithms
+human stress analysis using machine learning algorithms
